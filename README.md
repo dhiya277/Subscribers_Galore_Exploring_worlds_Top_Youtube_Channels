@@ -8,4 +8,4 @@ Dashboard piblic link4-https://public.tableau.com/views/story1_16972510369680/Da
 
 Story publish link-https://public.tableau.com/views/story1_16972510369680/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-Video demonstration link-https://youtu.be/MPfVq0EZnaY?si=MxihSw6j23rac1Oz
+Video demonstration link- https://drive.google.com/file/d/1UFG23fCWh0VO4tyFLQ7v7-WoC507JQi5/view?usp=drivesdk
